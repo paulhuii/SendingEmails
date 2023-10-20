@@ -60,10 +60,4 @@ Make sure to modify the SMTP server and port according to your email provider's 
 
 ## Author
 
-[Your Name]
-
----
-
-Feel free to contribute to this project. For any questions or issues, please open an issue or contact the author.
-
-The comments in the code explain the purpose of each section, making it easier to understand how the script works. This helps you customize the script according to your needs.
+Paul Hui, some google, and some ChatGPT
