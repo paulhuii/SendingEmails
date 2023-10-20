@@ -25,7 +25,8 @@ This Python script enables you to send mass emails using the Simple Mail Transfe
 
 - The first column should contain the name of the recipient.
 - The second column should contain the recipient's email address.
-- Do not include any headers.
+- I have included the CSV file in this repo for you to use.
+- Make sure you write over the first row, there should be no headers.
 
 Example:
 
